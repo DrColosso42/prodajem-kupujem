@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/prodajem-kupujem/static/css/main.de573500.chunk.css",
+    "main.js": "/prodajem-kupujem/static/js/main.23c199e9.chunk.js",
+    "main.js.map": "/prodajem-kupujem/static/js/main.23c199e9.chunk.js.map",
+    "runtime-main.js": "/prodajem-kupujem/static/js/runtime-main.5e7c0c1a.js",
+    "runtime-main.js.map": "/prodajem-kupujem/static/js/runtime-main.5e7c0c1a.js.map",
+    "static/js/2.fdc537ed.chunk.js": "/prodajem-kupujem/static/js/2.fdc537ed.chunk.js",
+    "static/js/2.fdc537ed.chunk.js.map": "/prodajem-kupujem/static/js/2.fdc537ed.chunk.js.map",
+    "static/js/3.757f5dea.chunk.js": "/prodajem-kupujem/static/js/3.757f5dea.chunk.js",
+    "static/js/3.757f5dea.chunk.js.map": "/prodajem-kupujem/static/js/3.757f5dea.chunk.js.map",
+    "index.html": "/prodajem-kupujem/index.html",
+    "static/css/main.de573500.chunk.css.map": "/prodajem-kupujem/static/css/main.de573500.chunk.css.map",
+    "static/js/2.fdc537ed.chunk.js.LICENSE.txt": "/prodajem-kupujem/static/js/2.fdc537ed.chunk.js.LICENSE.txt",
+    "static/media/clipboard.bcf97d97.png": "/prodajem-kupujem/static/media/clipboard.bcf97d97.png",
+    "static/media/envelope1.62e90dc5.png": "/prodajem-kupujem/static/media/envelope1.62e90dc5.png",
+    "static/media/img1.ccf3a613.jpg": "/prodajem-kupujem/static/media/img1.ccf3a613.jpg",
+    "static/media/img2.9860a7dd.jpg": "/prodajem-kupujem/static/media/img2.9860a7dd.jpg",
+    "static/media/img3.c58878ad.jpg": "/prodajem-kupujem/static/media/img3.c58878ad.jpg",
+    "static/media/img4.27118e0c.jpg": "/prodajem-kupujem/static/media/img4.27118e0c.jpg",
+    "static/media/img5.0e0bc6b7.jpg": "/prodajem-kupujem/static/media/img5.0e0bc6b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7c0c1a.js",
+    "static/js/2.fdc537ed.chunk.js",
+    "static/css/main.de573500.chunk.css",
+    "static/js/main.23c199e9.chunk.js"
+  ]
+}
